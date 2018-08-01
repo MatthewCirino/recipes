@@ -1,0 +1,12 @@
+Ingredients:
+ - Pasta
+
+Directions:
+ 1. Boil water.
+ 
+ 2. Place pasta in boiling water and cook for a few minutes.
+ 
+ 3. Remove pasta from boiling water.
+ 
+ 4. Eat.
+ 
